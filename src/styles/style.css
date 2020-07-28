@@ -67,6 +67,8 @@ h1, h3, p, a, li{
     }
 
     .att-img{
-        scale: 70%
+        max-width: 300px;
+        max-height: 500px;
+        margin: auto;
     }
 }
