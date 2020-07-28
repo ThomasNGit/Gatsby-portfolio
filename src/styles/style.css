@@ -30,6 +30,7 @@ a {
   width: 400px;
   height: 500px;
   margin: 0;
+  box-shadow: 6px 6px 4px 0px rgba(235,235,235,1);
   
 }
 
@@ -37,10 +38,14 @@ a {
     margin-left: 30px;
 }
 
+.att-img{
+    box-shadow: 6px 6px 4px 0px rgba(181,181,181,1);
+}
+
 h1, h3, p, a, li{
     color: #fff;
     text-shadow: 1px 2px 2px darkgray;
-    
+    text-shadow: 6px 6px 4px 0px rgba(181,181,181,1);    
 }
 
 
