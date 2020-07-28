@@ -15,7 +15,7 @@ export default function Contact() {
                         LinkedIn: <a href="https://www.linkedin.com/in/thomas-neroni-2a36271a1/" target='_blank' rel="noreferrer">LinkedIn Thomas Neroni</a>
                     </li>
                     <li>
-                        GitHub: <a href="https://github.com/ThomasNGit">GitHub Thomas Neroni</a>
+                        GitHub: <a href="https://github.com/ThomasNGit" target='_blank' rel="noreferrer">GitHub Thomas Neroni</a>
                     </li>
                     <li>
                         Facebook: <a href="https://www.facebook.com/thomas.neroni/" target='_blank' rel="noreferrer">Facebook Thomas Neroni</a>
