@@ -6,7 +6,7 @@ export default function Contact() {
     return (
         <Layout>
         <div>
-            <h1 style={{ marginTop: '2.5rem '}}>Ecco come potete contattarmi:</h1>
+            <h1 style={{ marginTop: '2.5rem '}} className="contact-me-intro">Ecco come potete contattarmi:</h1>
                 <ul style={{ listStyle: 'square', padding: '5rem 1rem' }}>
                     <li>
                         Email: <a href="mailto:thomas.neroni.dev@gmail.com">thomas.neroni.dev@gmail.com</a>
