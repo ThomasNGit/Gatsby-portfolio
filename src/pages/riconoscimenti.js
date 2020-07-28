@@ -7,7 +7,7 @@ export default function Riconoscimenti() {
         <Layout>
             <div style={{ textAlign: 'center' }}>
                 <h1 style={{ marginTop: '70px' }}>Attestato di termine corso Boolean Careers</h1>
-                <img src={attestato} alt="Attestato Boolean" style={{ maxWidth: '600px', maxHeight: '700px' }} />
+                <img src={attestato} alt="Attestato Boolean" className="att-img" style={{ maxWidth: '600px', maxHeight: '700px' }} />
             </div>
         </Layout>
     )
